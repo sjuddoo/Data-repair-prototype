@@ -5,3 +5,4 @@ It is connected with a very large dataset called EHR.csv, which could not be upl
 Imputation of missing data is performed on the 'Payment year' feature using linear regression.
 Detection of text outliers is performed after convering words to TF-IDF equivalents and clustering them
 Evaluation is performed using z-score measures.
+The GAIN folder contains source code of files to implement Generative Adversarial Imputation Networks based on the current research context.
